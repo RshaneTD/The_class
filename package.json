@@ -1,0 +1,24 @@
+{
+  "name": "array-and-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "postcss ./src/css/tailwind.css -o ./public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RshaneTD/The_class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RshaneTD/The_class/issues"
+  },
+  "homepage": "https://github.com/RshaneTD/The_class#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss-cli": "^10.0.0"
+  }
+}
