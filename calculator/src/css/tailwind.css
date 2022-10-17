@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calculator{
+    display: grid;
+    grid-template: minmax(120px,auto) repeat(5, 100px)/ repeat(4, 100px);
+}
+
+.btn{
+    font-size: 2rem;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
